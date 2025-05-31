@@ -1,0 +1,7 @@
+env_iris/
+__pycache__/
+*.pyc
+*.pyd
+*.log
+*.tmp
+*.swp
