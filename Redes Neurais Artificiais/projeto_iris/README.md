@@ -2,7 +2,7 @@ Projeto Iris - Classificação com Rede Neural MLP
 
 Este projeto usa uma **rede neural (MLP)** com TensorFlow/Keras para classificar as flores da base de dados clássica **Iris** (Setosa, Versicolor, Virginica).
 
-📁 Estrutura
+📁 Estrutura    
 
 - Treinamento de modelo com `tensorflow` e `keras`
 - Pré-processamento com `pandas`, `sklearn`
