@@ -1,0 +1,3 @@
+Tabela de desempenho do algoritmo de Evolução Diferencial:
+ Tempo de Execução (s)  Memória Usada (MB) Melhor Solução  Fitness da Solução  Acurácia (treino)  Acurácia (teste)  F1-score (teste)  ROC AUC (teste)                                                          Espaço de Busca
+                249.31              -43.38   [188, 13, 2]              0.7114             0.9899            0.8107            0.7521           0.8558 n_estimators: (150, 200), max_depth: (2, 15), min_samples_split: (2, 20)

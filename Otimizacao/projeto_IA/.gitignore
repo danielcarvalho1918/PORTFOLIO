@@ -1,0 +1,7 @@
+env_projetoIA/
+__pycache__/
+*.pyc
+*.pyd
+*.log
+*.tmp
+*.swp
