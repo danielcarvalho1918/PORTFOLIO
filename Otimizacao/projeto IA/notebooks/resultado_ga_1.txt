@@ -1,0 +1,17 @@
+Tabela de desempenho do algoritmo genético:
+ Tempo de Execução (s)  Memória Usada (MB) Melhor Solução  Fitness da Solução  Acurácia (treino)  Acurácia (teste)  F1-score (teste)  ROC AUC (teste)                                                         Espaço de Busca
+                484.28                8.18  [109, 13, 10]              0.7042             0.9576            0.7983            0.7375           0.8472 n_estimators: (50, 150), max_depth: (5, 40), min_samples_split: (2, 20)
+
+
+
+
+
+
+
+
+
+
+Obs: Teste feito com 8 gerações, e uma população inicial de 10 indivíduos. 
+
+
+

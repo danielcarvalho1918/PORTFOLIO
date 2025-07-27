@@ -1,0 +1,66 @@
+Fonte dos dados: https://www.kaggle.com/datasets/oktayrdeki/heart-disease?select=heart_disease.csv
+
+
+
+Sobre o conjunto de dados
+Este conjunto de dados contém diversos indicadores de saúde e fatores de risco relacionados a doenças cardíacas. Parâmetros como idade, sexo, pressão arterial, níveis de colesterol, hábitos de tabagismo e padrões de exercícios foram coletados para analisar o risco de doenças cardíacas e contribuir para a pesquisa em saúde. O conjunto de dados pode ser usado por profissionais de saúde, pesquisadores e analistas de dados para examinar tendências relacionadas a doenças cardíacas, identificar fatores de risco e realizar diversas análises relacionadas à saúde.
+
+Colunas ;
+
+Idade: Idade do indivíduo.
+
+Gênero: gênero do indivíduo (masculino ou feminino).
+
+Pressão arterial: Pressão arterial do indivíduo (sistólica).
+
+Nível de colesterol: nível total de colesterol do indivíduo.
+
+Hábitos de exercício: hábitos de exercício do indivíduo (baixo, médio, alto).
+
+Tabagismo: Se o indivíduo fuma ou não (Sim ou Não).
+
+Doença cardíaca familiar: se há histórico familiar de doença cardíaca (sim ou não).
+
+Diabetes: Se o indivíduo tem diabetes (Sim ou Não).
+
+IMC: Índice de massa corporal do indivíduo.
+
+Pressão alta: se o indivíduo tem pressão alta (sim ou não).
+
+Colesterol HDL baixo: se o indivíduo tem colesterol HDL baixo (sim ou não).
+
+Colesterol LDL alto: se o indivíduo tem colesterol LDL alto (Sim ou Não).
+
+Consumo de álcool: nível de consumo de álcool do indivíduo (nenhum, baixo, médio, alto).
+
+Nível de estresse: nível de estresse do indivíduo (baixo, médio, alto).
+
+Horas de sono: número de horas que o indivíduo dorme.
+
+Consumo de açúcar: nível de consumo de açúcar do indivíduo (baixo, médio, alto).
+
+Nível de triglicerídeos: nível de triglicerídeos do indivíduo.
+
+Glicemia em jejum: nível de glicemia em jejum do indivíduo.
+
+Nível de PCR: O nível de proteína C-reativa (um marcador de inflamação).
+
+Nível de homocisteína: nível de homocisteína do indivíduo (um aminoácido que afeta a saúde dos vasos sanguíneos).
+
+Status da doença cardíaca: status da doença cardíaca do indivíduo (Sim ou Não).
+
+
+
+
+
+Status do proejto (12/06/2025)
+
+Estou fazendo um projeto para otimizar arvores aleatórias com algoritmo genético e evolução diferencial. O dataset usado é esse: https://www.kaggle.com/datasets/oktayrdeki/heart-disease?select=heart_disease.csv  
+Já fiz a análise exploratória dos dados, o tratamento de dados faltantes, e o tratamento de dados categóricos. As classes estão divididas assim: Heart Disease Status
+No     8000
+Yes    2000
+
+
+
+
+

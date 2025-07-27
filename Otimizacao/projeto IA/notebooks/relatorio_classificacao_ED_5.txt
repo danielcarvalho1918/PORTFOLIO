@@ -1,0 +1,9 @@
+Relatório de Classificação - Evolução Diferencial:
+              precision    recall  f1-score   support
+
+           0     0.7752    0.9337    0.8471      2400
+           1     0.8785    0.6389    0.7398      1800
+
+    accuracy                         0.8074      4200
+   macro avg     0.8268    0.7863    0.7934      4200
+weighted avg     0.8195    0.8074    0.8011      4200
