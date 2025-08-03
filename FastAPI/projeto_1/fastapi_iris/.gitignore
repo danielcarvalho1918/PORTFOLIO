@@ -1,0 +1,4 @@
+fast_env/
+__pycache__/
+*.pyc
+
