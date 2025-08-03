@@ -1,5 +1,5 @@
 
-Esse projeto cria carrega um modelo de machine learning em um API utilizando o FastAPI. 
+Esse projeto carrega um modelo de machine learning em um API utilizando o FastAPI. 
 
 Criação do ambiente virtual:
 
@@ -15,7 +15,7 @@ Rodar a API:
     - uvicorn api:app --reload  
 
 Acessar a API no navegador:
-    -http://127.0.0.1:8000/docs
+    - http://127.0.0.1:8000/docs
 
 
 
