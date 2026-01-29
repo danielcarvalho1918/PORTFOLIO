@@ -1,4 +1,3 @@
-Aqui está a versão definitiva e completa do seu README.md. Ele cobre desde o "zero", incluindo a criação e ativação do ambiente virtual test1_env, garantindo que qualquer pessoa (ou seu professor) consiga rodar o projeto sem dificuldades.
 
 🤖 DevMaster 3000 - Assistente de Programação Personalizado
 Este projeto é uma Atividade Avaliativa que demonstra a integração com a API do Google Gemini utilizando a SDK google-genai. O assistente foi projetado para ser um mentor técnico que auxilia estudantes em lógica de programação e boas práticas de código.
