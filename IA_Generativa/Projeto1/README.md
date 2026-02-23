@@ -21,6 +21,7 @@ Utilize o comando abaixo para criar um ambiente isolado chamado test1_env:
 
 Bash
 python -m venv test1_env
+
 2. Ativar o Ambiente Virtual
 Windows:
 
@@ -30,8 +31,12 @@ Linux/Mac:
 
 Bash
 source test1_env/bin/activate
+
 3. Instalar as Dependências
 Com o ambiente ativo, instale os pacotes necessários:
 
 Bash
 pip install -r requirements.txt
+
+4. Crie um arquivo .env para definir a chave da API. Dentro dele, coloque:
+GOOGLE_API_KEY = AIzaSyBx4l0_jP_GzH6-xQdc5jgqcVXkC_iwkbU
