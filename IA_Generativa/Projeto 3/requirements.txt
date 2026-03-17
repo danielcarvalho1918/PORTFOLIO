@@ -1,0 +1,20 @@
+# --- Google AI & RAG ---
+google-genai
+langchain
+langchain-community
+langchain-google-genai
+sentence-transformers
+faiss-cpu
+pypdf
+
+# --- Frontend & Interface ---
+streamlit
+gradio
+
+# --- Integrações & Web ---
+requests
+python-dotenv
+
+# --- Utilitários ---
+pandas
+datetime
