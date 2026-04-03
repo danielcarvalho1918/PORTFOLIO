@@ -1,0 +1,5 @@
+.env
+proj4_venv/
+__pycache__/
+pdfs
+faiss_index
